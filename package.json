@@ -1,0 +1,32 @@
+{
+    "name": "type-playground",
+    "version": "1.0.0",
+    "description": "Collection of TypeScript type challenges from @type-challenges and online",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MatchaDog/type-playground.git"
+    },
+    "keywords": [
+        "typescript",
+        "challenges",
+        "type",
+        "type-system"
+    ],
+    "author": "Hans",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MatchaDog/type-playground/issues"
+    },
+    "homepage": "https://github.com/MatchaDog/type-playground#readme",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^5.10.2",
+        "@typescript-eslint/parser": "^5.10.2",
+        "eslint": "^8.8.0",
+        "eslint-config-prettier": "^8.3.0",
+        "typescript": "^4.5.5"
+    }
+}
